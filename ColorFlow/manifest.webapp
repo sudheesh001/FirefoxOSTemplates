@@ -1,0 +1,13 @@
+{
+  "name": "Simple Color",
+  "description": "Usage of D3.js to show its possibilities.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Sudheesh Singanamalla",
+    "url": "https://github.com/sudheesh001"
+  },
+  "default_locale": "en"
+}
